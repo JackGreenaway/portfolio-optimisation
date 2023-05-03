@@ -18,3 +18,5 @@ class gametheory_optimisation:
 if __name__ == "__main__":
     tickers = ["AAPL", "AMZN", "MSFT", "LMT", "META", "GOOG"]
     gametheory_optimisation(tickers=tickers)
+    
+    #
